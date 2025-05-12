@@ -6,4 +6,4 @@ What will you do?
 - [Climb the rocky hill for a better view](./rocky_hill.md)
 - [Head toward the sound of rushing water](./river_path.md)
 - [Inspect a strange set of footprints nearby](./footprints.md)
-- [Follow the narrow trail into the woods](./narrow_trail.md)
+- [Follow the narrow trail into the woods](./narrow_trail.md)g
