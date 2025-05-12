@@ -4,4 +4,11 @@ You wake up alone in a forest clearing. Your camp is empty, your friends are gon
 
 What will you do?
 
+analivier
 - [Climb the rocky hill for a better view](./rocky_hill.md)
+
+wils1046
+- [Follow the narrow trail into the woods](./narrow_trail.md)
+- [Inspect a strange set of footprints nearby](./footprints.md)
+main
+main
