@@ -4,20 +4,8 @@ You wake up alone in a forest clearing. Your camp is empty, your friends are gon
 
 What will you do?
 
- analivier
-analivier
 - [Climb the rocky hill for a better view](./rocky_hill.md)
-
-drol0039
-drol0039
-- [Head toward the sound of rushing water](river_path.md)
-
+- [Head toward the sound of rushing water](./river_path.md)
 - [Inspect a strange set of footprints nearby](./footprints.md)
- main
-main
+- [Follow the narrow trail into the woods](./narrow_trail.md)g
 
-wils1046
-- [Follow the narrow trail into the woods](./narrow_trail.md)
-- [Inspect a strange set of footprints nearby](./footprints.md)
-main
-main
