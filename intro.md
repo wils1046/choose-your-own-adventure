@@ -5,4 +5,3 @@ You wake up alone in a forest clearing. Your camp is empty, your friends are gon
 What will you do?
 
 - [Follow the narrow trail into the woods](./narrow_trail.md)
-
